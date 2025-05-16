@@ -8,6 +8,8 @@
 </p>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinichagas)](https://github.com/anuraghazra/github-readme-stats)
+
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
