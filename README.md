@@ -27,37 +27,38 @@
 
 <!-- Ícone do meu Octocat -->
 <div align="center">
-  <img align="center" alt="" height="100px" src="icons/my-octocat-icon.png"/>
+  <img align="center" alt="" height="100px" src="images/my-octocat.png"/>
 </div>
 
 #
 
-<!-- Gif 1: Pinguim codando -->
-<img align="right" alt="GIF" src="![200w (1)](https://github.com/user-attachments/assets/70fa7f6b-1815-4623-ade8-321ff4290a4b)
-" />
-
 <!-- Seção de Tecnologias (com ícones) -->
-<h3 align="left">Tecnologias</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-  <img width="8" />
+  <h3>Tecnologias</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" hspace="5"/>
+  <!--<img width="8" />-->
 </div>
+
+<!-- Gif 1: Pinguim codando -->
+![](images/pinguim-codando.gif)
+<!--<img align="right" width="100" height="100" src="images/pinguim-codando.gif">-->
+
 
 <!-- Seção de Skills (com ícones) -->
 <!--<h3 align="left">Skills</h3> -->
@@ -68,9 +69,9 @@
 <h3 align="center">Entre em contato!</h3>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vinifchagas/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://vinichagas.itch.io/" title="itch.io Profile"><img width="22" src="icons/itchio-icon.png"> itch.io</a></code>
-  <code><a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg/" title="YouTube Channel"><img width="22" src="icons/youtube-icon.png"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/vini_fchagas/" title="Instagram Profile"><img width="22" src="icons/instagram-icon.png"> Instagram</a></code>
+  <code><a href="https://vinichagas.itch.io/" title="itch.io Profile"><img width="22" src="images/itchio-icon.png"> itch.io</a></code>
+  <code><a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg/" title="YouTube Channel"><img width="22" src="images/youtube-icon.png"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/vini_fchagas/" title="Instagram Profile"><img width="22" src="images/instagram-icon.png"> Instagram</a></code>
 </h5>
 
 <!-- Indica quantos visitantes a página teve -->
