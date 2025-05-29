@@ -1,30 +1,28 @@
-## Hey there!👋🏼It's Vini
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinichagas.vinichagas">
+
+<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+my+GitHub+:);Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br>
+
+<p align="center"> Sou estudante de Engenharia da Computação na Universidade Federal do Amazonas (UFAM) :mortar_board:
+<p align="center"> Possuo experiência em <strong>Aprendizado de Máquina</strong>, <strong>IoT</strong>, <strong>Desenvolvimento Android</strong> e em <strong>Desenvolvimento de Jogos 2D e 3D</strong>. :computer:
+<p align="center"> Participei da <strong>Residência em Jogos</strong> no <a href="https://www.eldorado.org.br/unidade/manaus-am/"> Instituto ELDORADO</a>. Lá contamos com uma equipe de 19 pessoas, entre desenvolvedores e designers, e em cerca de 3 meses conseguimos entregar um jogo mobile 3D utilizando tecnologias como C#, Git, Unity e Atlassian :iphone:
+<p align="center"> Busco oportunidades para aplicar minhas habilidades em inovações no setor de tecnologia e de games! :relaxed::video_game:
 
 #
 
-<p align="center">Graduando Engenharia da Computação na Universidade Federal do Amazonas. No momento participando da <strong>Residência em Jogos</strong> no <a href="https://www.eldorado.org.br/unidade/manaus-am/"> Intituto ELDORADO</a> </a>, desenvolvendo um jogo 3D utilizando tecnologias como C#, Git, Unity e Atlassian.
+<h3 align="left">Skills</h3>
+
+
 
 #
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/vinifchagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vini_fchagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
-#
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vinichagas&amp;show_icons=true&amp;theme=radical" alt="Anurag&#39;s GitHub stats"></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinichagas&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
--->
-
-#
-
-<h3 align="left">Tecnologies & Softwares </h3>
+<h3 align="left">Tecnologias</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
@@ -49,6 +47,24 @@
 </div>
 
 #
+
+<h3 align="left">Entre em contato!</h3>
+  
+  <a href="www.linkedin.com/in/vinifchagas" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/vini_fchagas" target="blank">
+    <img align="center" src="![instagram-icon](https://github.com/user-attachments/assets/edf56e99-ef1f-4076-9ee8-8ccb58a885d2)" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg" target="blank">
+    <img align="center" src="![youtube-icon](https://github.com/user-attachments/assets/c0711e25-b376-4ea5-91c5-962d2e6fbaf7)" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" src="![itchio-icon](https://github.com/user-attachments/assets/0e58fecc-13ac-4c05-bd42-76fd9e889712)" alt="itch.io" height="30" width="40" />
+  </a>
+
+
+
 
 
 <!--
