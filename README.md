@@ -1,10 +1,10 @@
 <!-- Mensagem de Boas Vindas! -->
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&pause=1000&color=16FF69&center=true&vCenter=true&width=524&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&pause=1000&color=16FF69&center=true&vCenter=true&width=524&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Nice+to+meet+you!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
 
-#
+<hr>
 
 <!-- Mensagem de Descrição -->
 <br>
@@ -15,6 +15,68 @@
   <p> Busco oportunidades para aplicar minhas habilidades em inovações no setor de tecnologia e de games! 💻
 </div>
 
+<!-- Ícone do meu Octocat -->
+<div align="center">
+  <img alt="" height="100px" src="images/my-octocat.png"/>
+</div>
+
+<hr>
+
+<!-- Seção de Tecnologias (com ícones e GIFs) -->
+<div>
+  <!-- Gif 1: Pinguim codando -->
+  <img align="right" src="images/pinguim-codando.gif" height="80px" alt="pinguim-codando.gif" hspace="10"/>
+  
+  <h3>Tecnologias</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="unity logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="25" alt="trello logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" hspace="5"/>
+  <!--<img width="8" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="25" alt="bitbucket logo" hspace="5"/>
+  <!--<img width="8" />-->
+</div>
+
+<hr>
+
+<!-- Seção de Contato (com ícones) -->
+<h3 align="center">Entre em contato!</h3>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/vinifchagas/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn </a></code>
+  <img width="5"/>
+  <code><a href="https://vinichagas.itch.io/" title="itch.io Profile"><img width="22" src="images/itchio-icon.png"> itch.io </a></code>
+  <img width="5"/>
+  <code><a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg/" title="YouTube Channel"><img width="22" src="images/youtube-icon.png"> YouTube </a></code>
+  <img width="5"/>
+  <code><a href="https://www.instagram.com/vini_fchagas/" title="Instagram Profile"><img width="22" src="images/instagram-icon.png"> Instagram </a></code>
+</h5>
+
+<!-- Indica quantos visitantes a página teve -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinichagas.vinichagas" hspace="12">
+
+
+
+
+
+
+<!-- ========== RASCUNHO ========== -->
 
 <!--
 - 🎓 Estou graduando Engenharia da Computação na Universidade Federal do Amazonas
@@ -25,88 +87,3 @@
 - 📂
 -->
 
-<!-- Ícone do meu Octocat -->
-<div align="center">
-  <img align="center" alt="" height="100px" src="images/my-octocat.png"/>
-</div>
-
-#
-
-<!-- Seção de Tecnologias (com ícones) -->
-<div align="left">
-  <h3>Tecnologias</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" hspace="5"/>
-  <!--<img width="8" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" hspace="5"/>
-  <!--<img width="8" />-->
-</div>
-
-<!-- Gif 1: Pinguim codando -->
-![](images/pinguim-codando.gif)
-<!--<img align="right" width="100" height="100" src="images/pinguim-codando.gif">-->
-
-
-<!-- Seção de Skills (com ícones) -->
-<!--<h3 align="left">Skills</h3> -->
-
-#
-
-<!-- Seção de Contato (com ícones) -->
-<h3 align="center">Entre em contato!</h3>
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vinifchagas/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://vinichagas.itch.io/" title="itch.io Profile"><img width="22" src="images/itchio-icon.png"> itch.io</a></code>
-  <code><a href="https://www.youtube.com/channel/UCDJhFOuX18XoywoZaCl5reg/" title="YouTube Channel"><img width="22" src="images/youtube-icon.png"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/vini_fchagas/" title="Instagram Profile"><img width="22" src="images/instagram-icon.png"> Instagram</a></code>
-</h5>
-
-<!-- Indica quantos visitantes a página teve -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinichagas.vinichagas">
-
-
-
-
-
-
-
-
-
-<!-- REFERÊNCIAS:
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinichagas_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/vinichagas/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinichagas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinichagas/vinichagas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinichagas/vinichagas/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinichagas/vinichagas/output/github-contribution-grid-snake.svg">
-</picture>
-
--->
